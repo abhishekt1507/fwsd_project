@@ -1,0 +1,51 @@
+/* Navbar */
+#nav_top {
+    padding-left: 15%;
+    background-color:#0F110C;
+    font-family: 'Josefin Sans' , sans-serif;
+    font-size: 1rem;
+    
+    
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 3rem;
+    padding-top: 0.1rem;
+    color: white
+}
+.navbar-brand {
+    padding-top: 0.3rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1rem;
+    text-decoration: none;
+    white-space: nowrap;
+    font-family: 'Josefin Sans' , sans-serif;
+    color: white;
+    
+}
+
+/* slider-content */
+.slide{
+    color: orange
+}
+/* Infrastructure-background */
+/* #infrastructure-background1{ 
+    background-color: #EEF0F2;
+ } */
+#infrastructure-background2{
+    background-color: #A2999E;
+}
+#menu-background{
+    background-color: #C6C7C4;
+}
+/* map-background */
+#map-background{
+    background-color: #EEF0F2;
+}
+/* footer-anchor-underline */
+a:link{
+    text-decoration: none;
+    
+    
+}
